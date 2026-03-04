@@ -1,4 +1,11 @@
-La presente plantilla se debe utilizar para reportar incidencias. Ver 1.
+---
+name: Bug report
+about: Reportar un error en el proyecto
+title: ''
+labels: bug
+assignees: ''
+---
+
 -----------------------------------------------
 ## Título del bug
 (Descripción breve y clara del problema)
