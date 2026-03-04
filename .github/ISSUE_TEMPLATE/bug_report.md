@@ -1,4 +1,4 @@
-La presente plantilla se debe utilizar para reportar incidencias
+La presente plantilla se debe utilizar para reportar incidencias. Ver 1.
 -----------------------------------------------
 ## Título del bug
 (Descripción breve y clara del problema)
